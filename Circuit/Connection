@@ -1,0 +1,20 @@
+🔌 Ultrasonic Sensor (HC-SR04)
+
+Sensor Pin	Connect To Arduino
+
+VCC	5V
+GND	GND
+TRIG	Pin 11
+ECHO	Pin 12
+
+
+
+---
+
+⚙ Servo Motor (SG90)
+
+Servo Wire	Connect To Arduino
+
+Red (VCC)	5V
+Brown or Black (GND)	GND
+Orange or Yellow (Signal)	Pin 13
